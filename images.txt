@@ -1,3 +1,4 @@
 elasticsearch:7.10.1
 --platform=linux/arm64/v8 elasticsearch:7.10.1
 ibm-semeru-runtimes:open-8u412-b08-jdk
+rabbitmq:3.8.8-management
