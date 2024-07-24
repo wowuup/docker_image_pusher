@@ -4,5 +4,6 @@ ibm-semeru-runtimes:open-8u412-b08-jdk
 rabbitmq:3.8.8-management
 elasticsearch:7.17.22
 minio/minio:RELEASE.2024-07-16T23-46-41Z
+minio/minio:RELEASE.2024-07-16T23-46-41Z-cpuv1
 redis:7.2.5
 nginx:1.27.0
