@@ -7,4 +7,4 @@ minio/minio:RELEASE.2024-07-16T23-46-41Z
 minio/minio:RELEASE.2024-07-16T23-46-41Z-cpuv1
 redis:7.2.5
 nginx:1.27.0
-xuxueli/xxl-job-admin:2.4.2
+xuxueli/xxl-job-admin:2.1.1
