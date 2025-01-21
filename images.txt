@@ -1,4 +1,3 @@
---platform=linux/arm64/v8 elasticsearch:7.10.1
 ibm-semeru-runtimes:open-8u412-b08-jdk
 --platform=linux/arm64 minio/minio:RELEASE.2025-01-18T00-31-37Z
---platform=linux/arm/v5 redis:7.4.2
+--platform=linux/arm64/v8 redis:7.4.2
